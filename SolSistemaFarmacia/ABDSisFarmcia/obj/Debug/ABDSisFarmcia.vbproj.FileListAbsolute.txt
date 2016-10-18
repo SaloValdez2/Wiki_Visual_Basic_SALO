@@ -1,0 +1,8 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\bin\Debug\ABDSisFarmcia.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\bin\Debug\ABDSisFarmcia.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\bin\Debug\ABDSisFarmcia.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\obj\Debug\ABDSisFarmcia.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\obj\Debug\ABDSisFarmcia.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\obj\Debug\ABDSisFarmcia.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\obj\Debug\ABDSisFarmcia.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\ABDSisFarmcia\obj\Debug\ABDSisFarmcia.pdb

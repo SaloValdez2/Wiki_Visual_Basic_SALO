@@ -1,0 +1,16 @@
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\pjtSisFarmacia.exe.config
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.FrmListarCliente.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.Resources.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.vbproj.GenerateResource.Cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\pjtSisFarmacia.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\pjtSisFarmacia.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\pjtSisFarmacia.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.exe
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\ABDSisFarmcia.dll
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\ABDSisFarmcia.pdb
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\bin\Debug\ABDSisFarmcia.xml
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.vbprojResolveAssemblyReference.cache
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.FrmListarCantidadClientes.resources
+D:\UNIT\PROGRAMACION DISTRIBUIDA\SolSistemaFarmacia\pjtSisFarmacia\obj\Debug\pjtSisFarmacia.MDISisFarmacia.resources

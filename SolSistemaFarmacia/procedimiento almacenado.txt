@@ -1,0 +1,14 @@
+create proc usp_listar_cliente_tipo
+	as select (c.codigo + '-' + c.apellido + '-' + c.nombre) As 
+	nombre_completo,TC.nombre As tipo_cliente, P.descripcion
+			As pais
+	from CLIENTE C
+	inner join TIPO_CLIENTE tc
+	on c.id_tipo_cliente = tc.ID_TIPO_CLIENTE
+	inner join PAIS P
+	ON C.id_pais = P.ID_PAIS
+
+CREATE PROCEDURE USP_LISTAR_CLIENTE_CANTIDAD
+AS
+SELECT COUNT(ID_CLIENTE) AS CANTIDAD
+FROM CLIENTE
